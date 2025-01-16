@@ -5,6 +5,8 @@ Challenge from Frontend Mentor
 1 hour
 
 ## What I was supposed to build:
+![destkop-design](https://github.com/user-attachments/assets/da62cff8-03ac-4c96-a746-ca36ff9ec1c6)
+
 
 ## Finished Project:
 ![Untitled](https://github.com/user-attachments/assets/928ee435-6e13-47b0-b149-efc57f10c4c7)
