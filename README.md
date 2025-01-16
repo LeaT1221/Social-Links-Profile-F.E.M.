@@ -1,5 +1,8 @@
 # Social-Links-Profile-F.E.M.
-# Frontend Mentor - Social links profile solution
+Challenge from Frontend Mentor
+
+## Time spent:
+1 hour
 
 This is a solution to the [Social links profile challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). 
 ## Table of contents
