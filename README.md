@@ -4,6 +4,12 @@ Challenge from Frontend Mentor
 ## Time spent:
 1 hour
 
+## What I was supposed to build:
+
+## Finished Project:
+![Untitled](https://github.com/user-attachments/assets/928ee435-6e13-47b0-b149-efc57f10c4c7)
+
+
 This is a solution to the [Social links profile challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). 
 ## Table of contents
 
