@@ -1,8 +1,8 @@
 # Social-Links-Profile-F.E.M.
 Challenge from Frontend Mentor
 
-## Time spent:
-1 hour
+## Date & Time spent:
+1/16/25, 1 hour
 
 ## What I was supposed to build:
 ![destkop-design](https://github.com/user-attachments/assets/da62cff8-03ac-4c96-a746-ca36ff9ec1c6)
