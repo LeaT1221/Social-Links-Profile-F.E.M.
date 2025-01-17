@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="RecipeCard.css">
+    <title>Recipe Card Project</title>
+</head>
+<body>
+    <main>
+        <div id="image-title-description">
+            <img src="image-omelette.jpeg" alt="An image of an omelette.">
+            <h1>Simple Omelette Recipe</h1>
+            <p>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
+        </div>
+
+        <div id="preparation">
+            <h3>Preparation Time</h3>
+            <ul>
+                <li id="prep-1"><span><b>Preparation:</b> 5 minutes.</span></li>
+                <li id="prep-2"><span><b>Cook Time:</b> 5 minutes.</span></li>
+                <li id="prep-3"><span><b>Total:</b> 10 minutes.</span></li>
+            </ul>
+        </div>
+
+        <div id="ingredients" class="recipe">
+            <h2>Ingredients</h2>
+            <input type="checkbox" id="ingredient-1">
+            <label for="ingredient-1">2-3 Large eggs</label><br>
+            <input type="checkbox" id="ingredient-2">
+            <label for="ingredient-2">1 Tablespoon butter or oil</label><br>
+            <input type="checkbox" id="ingredient-3">
+            <label for="ingredient-3">Salt - to taste</label><br>
+            <input type="checkbox" id="ingredient-4">
+            <label for="ingredient-4">Pepper - to taste</label><br>
+            <input type="checkbox" id="ingredient-5">
+            <label for="ingredient-5">Optional: A tablespoon of milk or water</label><br>
+            <input type="checkbox" id="ingredient-6">
+            <label for="ingredient-6">Optional Fillings: cheese, diced vegetables, cooked meats, chopped herbs</label><br>
+        </div>
+
+        <div id="instructions" class="recipe">
+            <h2>Instructions</h2>
+            <ol>
+                <li><span><b>Beat the eggs:</b> In a bowl, beat the eggs with your desired amount of salt and pepper until they are well mixed. For a fluffier texture, add in a tablespoon of milk or water.</span></li>
+                <li><span><b>Heat the pan:</b> Place a non-stick frying pan over medium heating, adding the butter or oil.</span></li>
+                <li><span><b>Cook the omelette:</b> Once the butter or oil is melted and bubbling, pour in the eggs. Tilt the pan to ensure that the eggs coat the entire surface.</span></li>
+                <li><span><b>Add fillings (optional):</b> When the eggs begin to set at the edges but are still slightly runny in the middle, sprinkle in your chosen fillings over one have of the omelette.</span></li>
+                <li><span><b>Fold and serve:</b> As the omelette continues to cook, carefully lift one side and fold it over the fillings, encapsulating them in the egg. Let it cook for a minute longer, then slide your omelette onto a plate and serve.</span></li>
+                <li><span><b>Enjoy!</b> Serve fresh from the pan, with the optional addition of extra salt and pepper, fresh herbs, or hot sauce/salsa.</span></li>
+            </ol>
+        </div>
+
+        <div id="nutrition">
+            <h2>Nutrition</h2>
+            <p>The table below shows approximate nutritional values per serving, (one omelette), without the addition of optional fillings/toppings.</p>
+            <p class="nutrition-info" id="nut-info-1">Calories <span><b>277kcal</b></span></p>
+            <p class="nutrition-info" id="nut-info-2">Carbs <span><b>0g</b></span></p>
+            <p class="nutrition-info" id="nut-info-3">Protein <span><b>20g</b></span></p>
+            <p class="nutrition-info" id="nut-info-4">Fat <span><b>22g</b></span></p>
+        </div>
+    </main>
+</body>
+</html>
